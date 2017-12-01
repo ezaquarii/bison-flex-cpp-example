@@ -30,7 +30,6 @@
 #include "command.h"
 
 #include <sstream>
-#include <boost/concept_check.hpp>
 
 using namespace EzAquarii;
 
